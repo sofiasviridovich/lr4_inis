@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# DigitalStore — интернет-магазин цифровых товаров на Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Требования
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- Node.js (LTS, версия 18 или выше) — [скачать](https://nodejs.org)
+- npm 
+
+Установка и запуск
+1. Клонировать репозиторий
+
+git clone https://github.com/ВАШ-USERNAME/ИМЯ-РЕПОЗИТОРИЯ.git
+cd ИМЯ-РЕПОЗИТОРИЯ
+
+2. Установить зависимости
+
+npm install
+
+3. Запустить dev-сервер
+
+npm run dev
+
+Приложение откроется по адресу:
+
+http://localhost:5173
+
